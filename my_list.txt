@@ -1,0 +1,5 @@
+servers
+laptops
+desktops
+net books
+tablets
